@@ -87,6 +87,22 @@
             }
         },
         {
+            "Key": "61e64fa1-8ea3-4ed0-81c3-b05cc7b0fa91",
+            "Value": {
+                "id": "14fe560f-83d1-4f02-9a3e-d554f846de27",
+                "resourcePath": "objects\\ovj_networkPlayer\\ovj_networkPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "66ed52f1-bc0f-4f6a-baf0-5bc826f895d3",
+            "Value": {
+                "id": "ab0a2216-5cde-4a58-aed8-6dbac98c3433",
+                "resourcePath": "objects\\obj_main\\obj_main.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "79ded3cf-9b38-4f07-9bf2-c31f5fc56b0d",
             "Value": {
                 "id": "c137eaef-9b30-45da-ab5d-5c5e17b860e0",
@@ -140,6 +156,14 @@
                 "id": "8379bd9f-651c-461a-ba8f-80813166393b",
                 "resourcePath": "views\\b23d25f0-9095-444d-a38c-2f6e45f710fa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b25c3a8c-3b47-4e8e-b100-773dc70e94f0",
+            "Value": {
+                "id": "3594b7eb-ef14-46ce-b2cc-44b6ef7b9a44",
+                "resourcePath": "objects\\obj_localPlayer\\obj_localPlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
